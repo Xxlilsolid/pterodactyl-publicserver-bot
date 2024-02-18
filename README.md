@@ -1,0 +1,1 @@
+# pterodactyl-publicserver-bot
