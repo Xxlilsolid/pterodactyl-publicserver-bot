@@ -1,0 +1,4 @@
+discord==2.3.2
+py-dactyl==2.0.4
+nest_asyncio==1.6.0
+asyncio==3.4.3
